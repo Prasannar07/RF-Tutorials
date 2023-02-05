@@ -10,7 +10,7 @@ To download the data or to look at the code used to clean data.
 1. The MSE of the hitter data is 296.37.
 
 2. Feature Importance plot.
-C:\Users\hp\Desktop\RF-Tutorials\feature_imp.png
+feature_imp.png
 3. Permutation feature importance plots.
 image.png
 image.png
