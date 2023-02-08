@@ -6,6 +6,7 @@ To download the data or to look at the code used to clean data.
 1. Go to  https://github.com/kirenz/regression click on code and download zip.
 2. Extract the data files and paste them in your working directory.
 3. You can also download the data from my repository.
+4. Then run the Hitter_Data_RF file from my repository.
 # Expected results
 1. The MSE of the hitter data is 296.37.
 
