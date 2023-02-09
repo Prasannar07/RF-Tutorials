@@ -24,5 +24,6 @@ For Random Forest Classification Model.
 
 5. Permutation feature importance plots.
 
+![importances plot](feature_imp.png)
 
 ![GMSL_2100_ssp-rcp](https://user-images.githubusercontent.com/19948806/217910218-719969f7-3eee-459b-884c-b76d448c1929.png)
