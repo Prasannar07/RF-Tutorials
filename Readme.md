@@ -35,8 +35,3 @@ For Random Forest Classification Model.
 
 <<<<<<< HEAD
 ![gmsl figure](figs/class_permutation_feature_imp.png)
-=======
-![importances plot](feature_imp.png)
->>>>>>> cd3f220dd8a380a2cea5d7df6515ee738e5d8af8
-
-![GMSL_2100_ssp-rcp](https://user-images.githubusercontent.com/19948806/217910218-719969f7-3eee-459b-884c-b76d448c1929.png)
