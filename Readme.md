@@ -24,7 +24,7 @@ For Random Forest Regression Model.
 
 For Random Forest Classification Model. 
 1. The best params are {'criterion': 'gini', 'max_depth': 7, 'max_features': 'auto', 'n_estimators': 200}.
-2. Accuracy on trainin set is 100%.
+2. Accuracy on training set is 100%.
 3. Accuracy on test set is 89.87%.
 
 4. Feature Importance plot.
