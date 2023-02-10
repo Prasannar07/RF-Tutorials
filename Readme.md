@@ -33,5 +33,4 @@ For Random Forest Classification Model.
 
 5. Permutation feature importance plots.
 
-<<<<<<< HEAD
 ![gmsl figure](figs/class_permutation_feature_imp.png)
